@@ -1,0 +1,14 @@
+
+R
+java:S2589%"7Remove this expression which always evaluates to "true"(”ùÍ›ûÿÿÿÿ
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü
+<
+java:S1172
+"&Remove these unused method parameters.(ú®Î
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(üùù
+<
+java:S1172,"&Remove these unused method parameters.(ê¨á
+Q
+java:S1481";Remove this unused "filteredReportDataList" local variable.(üùù
